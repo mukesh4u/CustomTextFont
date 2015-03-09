@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">CustomTextFont</string>
+	<string name="FONT_d3_digitalism">fonts/d3-digitalism.ttf</string>
+	<string name="FONT_digitalism">fonts/digitalism.ttf</string>
+	<string name="FONT_Mohave_Bold">fonts/Mohave-Bold.ttf</string>
+	<string name="FONT_Roboto_Black">fonts/Roboto-Black.ttf</string>
+	<string name="FONT_Roboto_Bold">fonts/Roboto-Bold.ttf</string>
+	<string name="FONT_Roboto_Medium">fonts/Roboto-Medium.ttf</string>
+	<string name="FONT_RobotoCondensed_Bold">fonts/RobotoCondensed-Bold.ttf</string>
+</resources>
